@@ -15,7 +15,7 @@ function katex() {
 	if(IS_MD == 'y'){
 ?>
 
-<!--编辑器支持LaTex配置-->
+<!--编辑器支持LaTex配置---->
 <script>
 	function setKatex(obj) {
 		obj.config({ tex: true });
@@ -25,7 +25,7 @@ function katex() {
 	hooks.addAction("sum_loaded", setKatex);//摘要编辑器
 	hooks.addAction("page_loaded", setKatex);//页面编辑器
 </script>
-
+<!--编辑器支持LaTex配置（结束）-->
 <?php
 	}
 }
