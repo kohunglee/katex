@@ -6,7 +6,7 @@ Plugin URL:
 Description: 前台和编辑器(editor.md)支持LaTeX公式功能的激活插件
 Author: 串串狗xk
 Author URL: http://www.ccgxk.com
-*/
+*/ 
 !defined('EMLOG_ROOT') && exit('error');
 error_reporting(0); 
 ?>
