@@ -10,12 +10,11 @@ Author URL: http://www.ccgxk.com
 !defined('EMLOG_ROOT') && exit('error');
 error_reporting(0); 
 ?>
-<!--Katex插件仪表盘的样式文件-->
+<!-- Katex插件仪表盘的样式文件 -->
 <style>
 	.copyright{display:none}
 	.katex_msg{padding-left:10px;color:#1cc88a00;animation:myfirst 4s;}
-	@keyframes myfirst{	from {color:#1cc88a} to {color:#1cc88a00}
-}
+	@keyframes myfirst{	from {color:#1cc88a} to {color:#1cc88a00}}
 </style>
 
 <?php
