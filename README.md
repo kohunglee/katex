@@ -2,7 +2,7 @@
 emlog 插件，前台和编辑器( editor.md )支持 LaTeX 公式功能的激活插件。
 
 <hr>
-
+详细教程地址：https://www.ccgxk.com/emlog_dev/katex.html
 # 插件说明和使用教程
 
 # 效果 <span id='1' ></span>
